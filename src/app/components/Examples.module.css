@@ -1,0 +1,19 @@
+.main {
+  max-width: clamp(30rem, 50vw + 15rem, 60rem);
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+.main > a:first-child {
+  padding: 0.5rem 0;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.main p {
+  margin: 0.5rem 0 0.75rem;
+}
+
+.main h3 {
+  margin: 0 0 1.5rem;
+}

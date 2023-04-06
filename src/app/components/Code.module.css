@@ -1,0 +1,9 @@
+.codeBlock {
+  display: block;
+  margin: 2rem 0rem 2rem;
+}
+
+.codeBlock > pre {
+  padding: 2rem;
+  border-radius: 0.5rem;
+}
